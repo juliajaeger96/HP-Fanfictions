@@ -1,0 +1,5 @@
+one = Harry, Ron, Hermine und Draco
+two = Harry, Ron, Hermine
+three = Draco, Snape, Voldemort
+four = Harry, Dumbledore, Voldemort
+five = Blaise, Seamus, Draco, Harry

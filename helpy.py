@@ -31,10 +31,3 @@ def get_adjectives (string):
         nouns_from_sent = [lemma for (word,lemma,pos) in tags if pos == "ADJA" or pos == "ADJD"]
     return nouns_from_sent
 # helperfile
-
-def get_func (df, func):
-    df['nouns'] = df['-5'].apply(func)
-    return df
-
-
-
