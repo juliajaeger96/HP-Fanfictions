@@ -1,6 +1,7 @@
 # HP-Fanfictions
 
-Das Projekt umfasst einen Vergleich zwischen Harry Potter Fanfictions und der Original HP-Reihe. Dabei werden vor allem die Figuren der Texte analysiert und miteinander verglichen. 
+Das Projekt umfasst einen Vergleich zwischen Harry Potter Fanfictions und der Original HP-Reihe. Dabei werden vor allem die Figuren der Texte analysiert und miteinander verglichen.
+
 beihaltet LFS Dateien: Download mit Befehl *git lsf fetch*
 
 ## Ordnerstruktur: 
